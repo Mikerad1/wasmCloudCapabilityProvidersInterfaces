@@ -1,6 +1,6 @@
 [package]
 name = "jwt_provider"
-version = "1.0.14"
+version = "1.0.15"
 description = "Interface library for the jwt_provider jwt_handler capability, "
 authors = [ "michaelrademeyer@hotmail.com" ]
 edition = "2021"
