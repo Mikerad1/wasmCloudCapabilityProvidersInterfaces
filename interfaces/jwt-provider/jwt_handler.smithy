@@ -17,7 +17,7 @@ use org.wasmcloud.model#U64
     contractId: "michaelrademeyer:interfaces:jwt_handler",
     providerReceive: true )
 service JwtHandler {
-  version: "0.1",
+  version: "0.2",
   operations: [ GenerateJwt, ValidateJwt, GetJwtValues, IsTokenExpired ]
 }
 
